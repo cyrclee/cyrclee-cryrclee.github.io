@@ -311,6 +311,10 @@
   </body>
 </html>
 
+onload = () =>{
+        document.body.classList.remove("container");
+};
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
