@@ -22,7 +22,7 @@
         <span>G</span>
     </div>
     <div class="description">
-        <span>MAAFIN KK YA CAYANGG</span>
+        <span>MAAFIN KK YA CAYANGG, JANGAN JAUHIN KK YAA PLISS</span>
     </div>
     <div class="button">
         <button>
